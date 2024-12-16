@@ -1,4 +1,5 @@
-
+---
+layout: default
 ---
 # Mi primera página con Markdown
 
